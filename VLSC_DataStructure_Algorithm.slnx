@@ -2,4 +2,5 @@
   <Project Path="DSA_Session08_06_Circus/DSA_Session08_06_Circus.csproj" />
   <Project Path="DSA_Session08_DoubleLinkedList/DSA_Session08_DoubleLinkedList.csproj" />
   <Project Path="DSA_Session08_Queue/DSA_Session08_Queue.csproj" />
+  <Project Path="DSA_Session08_Queue_01/DSA_Session08_Queue_01.csproj" />
 </Solution>
